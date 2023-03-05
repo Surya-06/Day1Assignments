@@ -18,11 +18,12 @@ public class Fibbinocci {
 		int secNum = 1;
 		int sum=0;
 		System.out.println(firstNum);
-		for (int i = 0; i <=11; i++) {
+		System.out.println(secNum);
+		for (int i = 1; i <=11; i++) {
 			sum=firstNum+secNum;
-			secNum=firstNum;
-			sum=secNum;
-			System.out.println("Fibonacci series numbers is :  " +  sum);
+			System.out.println( sum);
+			firstNum=secNum;
+			secNum=sum;
 			
 }}}
 
