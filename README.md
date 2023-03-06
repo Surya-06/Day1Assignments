@@ -6,4 +6,10 @@
 4.OddNumbers.java
 5.Scooter.java
 
----------------------------------------------
+# Day 2 Assignments ( 05.03.2023 )
+
+1.FindInterSection
+2.MissingElementInAnArray
+3.PrintDuplicatesInArray
+
+
